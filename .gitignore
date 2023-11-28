@@ -20,11 +20,11 @@
 # Go workspace file
 go.work
 
-### IntelliJ IDEA ###
+# IntelliJ IDEA
 .idea/
 
-### VS Code ###
+# VS Code
 .vscode/
 
-### Mac OS ###
+# Mac OS
 .DS_Store
